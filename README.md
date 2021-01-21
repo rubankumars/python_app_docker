@@ -1,3 +1,4 @@
+
 docker run --name mysql -e MYSQL_ROOT_PASSWORD=Password1234 -d mysql
 
 
